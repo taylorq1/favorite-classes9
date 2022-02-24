@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/favorite-classes9/static/css/main.ab2ce6db.chunk.css",
-    "main.js": "/favorite-classes9/static/js/main.761c401f.chunk.js",
-    "main.js.map": "/favorite-classes9/static/js/main.761c401f.chunk.js.map",
-    "runtime~main.js": "/favorite-classes9/static/js/runtime~main.ed495f6d.js",
-    "runtime~main.js.map": "/favorite-classes9/static/js/runtime~main.ed495f6d.js.map",
-    "static/js/2.624f555d.chunk.js": "/favorite-classes9/static/js/2.624f555d.chunk.js",
-    "static/js/2.624f555d.chunk.js.map": "/favorite-classes9/static/js/2.624f555d.chunk.js.map",
-    "static/js/3.987c3a98.chunk.js": "/favorite-classes9/static/js/3.987c3a98.chunk.js",
-    "static/js/3.987c3a98.chunk.js.map": "/favorite-classes9/static/js/3.987c3a98.chunk.js.map",
+    "main.css": "/favorite-classes9/static/css/main.9a827fb4.chunk.css",
+    "main.js": "/favorite-classes9/static/js/main.cff4d4d8.chunk.js",
+    "main.js.map": "/favorite-classes9/static/js/main.cff4d4d8.chunk.js.map",
+    "runtime~main.js": "/favorite-classes9/static/js/runtime~main.bf4d631f.js",
+    "runtime~main.js.map": "/favorite-classes9/static/js/runtime~main.bf4d631f.js.map",
+    "static/js/2.1e10d7f0.chunk.js": "/favorite-classes9/static/js/2.1e10d7f0.chunk.js",
+    "static/js/2.1e10d7f0.chunk.js.map": "/favorite-classes9/static/js/2.1e10d7f0.chunk.js.map",
+    "static/js/3.12bf67e3.chunk.js": "/favorite-classes9/static/js/3.12bf67e3.chunk.js",
+    "static/js/3.12bf67e3.chunk.js.map": "/favorite-classes9/static/js/3.12bf67e3.chunk.js.map",
     "index.html": "/favorite-classes9/index.html",
-    "precache-manifest.f78b6de38dde4deee022f2a1cae62e6c.js": "/favorite-classes9/precache-manifest.f78b6de38dde4deee022f2a1cae62e6c.js",
+    "precache-manifest.9b053ae99726cbc4cbf627cf141b5481.js": "/favorite-classes9/precache-manifest.9b053ae99726cbc4cbf627cf141b5481.js",
     "service-worker.js": "/favorite-classes9/service-worker.js",
-    "static/css/main.ab2ce6db.chunk.css.map": "/favorite-classes9/static/css/main.ab2ce6db.chunk.css.map",
+    "static/css/main.9a827fb4.chunk.css.map": "/favorite-classes9/static/css/main.9a827fb4.chunk.css.map",
     "static/media/logo.svg": "/favorite-classes9/static/media/logo.06e73328.svg"
   }
 }
