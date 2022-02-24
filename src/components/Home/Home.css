@@ -1,3 +1,16 @@
 .my-classes {
-    background-color: aliceblue;
+    background-color: antiquewhite;
+}
+h1 {
+    font: 1em times;
+    font-size: xx-large;
+    font-weight: 900;
+}
+label {
+    font: 1em times;
+    font-size: medium;
+}
+button {
+    font: 1em times;
+    font-size: medium;
 }
