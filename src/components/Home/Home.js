@@ -21,6 +21,7 @@ function Home(props) {
     return (
         <div>
             <h1>Taylor's Favorite Classes</h1>
+            <h2>Try "STATS67"</h2>
             <form onSubmit={handleSubmit}>
                 <label>Add Favorite Class</label>
                 <input type ="text" value={value} onChange={handleChange}></input>
